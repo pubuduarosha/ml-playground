@@ -1,4 +1,4 @@
-## machine-larning-tutorial
+## machine-larning-note
 
 
 - Linear Regression - Single Variale
