@@ -1,0 +1,11 @@
+City,Age,Income,Car Purchased
+Colombo,44,72000,no
+Nugegoda,27,48000,yes
+Kandy,30,54000,no
+Nugegoda,38,61000,no
+Kandy,40,,yes
+Colombo,35,58000,yes
+Nugegoda,,52000,no
+Colombo,48,79000,yes
+Kandy,50,83000,no
+Colombo,37,67000,yes
