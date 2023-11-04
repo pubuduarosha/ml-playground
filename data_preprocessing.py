@@ -27,3 +27,6 @@ X[:, 0] = labelencoder_X.fit_transform(X[:, 0])
 ct = ColumnTransformer(transformers=[('encoder', OneHotEncoder(), [0])], remainder='passthrough')
 X = ct.fit_transform(X)
 
+labelencoder_Y = LabelEncoder()
+Y = labelencoder_Y.fit_transform(Y)
+
