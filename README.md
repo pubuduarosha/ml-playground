@@ -1,10 +1,11 @@
 ## machine-larning-note
 
 
-- Linear Regression - Single Variale
+- Linear Regression - Single Variable
 - Linear Regression - Multiple Variables
-- Save Model using Joblib and Pickle
-- Dummy vriables & One Hot Encoding
+- Save the Model using Joblib and Pickle
+- Dummy variables & One Hot Encoding
 - Logistic Regression - Binary Classification 
 - Logistic Regression - Multiclass Classification
 - Decision Tree
+- Support Vector Machine (SVM)
