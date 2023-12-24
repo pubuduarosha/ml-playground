@@ -9,3 +9,4 @@
 - Logistic Regression - Multiclass Classification
 - Decision Tree
 - Support Vector Machine (SVM)
+- Random Forest
