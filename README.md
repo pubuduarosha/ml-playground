@@ -10,3 +10,4 @@
 - Decision Tree
 - Support Vector Machine (SVM)
 - Random Forest
+- K Fold Cross Validation
